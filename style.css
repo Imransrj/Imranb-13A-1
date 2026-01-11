@@ -32,3 +32,21 @@ nav .menu a{
     color: #474747;
     text-decoration: none;
 }
+section{
+    background-image: url(assets/hero-bg.png);
+    padding-top: 250px;
+    padding-bottom: 250px;
+    text-align: center;
+}
+section .btn{
+    padding-top: 20px;
+}
+section .btn .bt{
+   gap: 10px;
+   border-radius: 8px;
+   font-size: 15px;
+   background-color: rgb(150, 143, 156);
+}
+section .btn .bt:hover{
+    color: blue;
+}
