@@ -50,3 +50,13 @@ section .btn .bt{
 section .btn .bt:hover{
     color: blue;
 }
+.card{
+    padding: 100px 100px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.second-brain{
+    display: flex;
+    gap: 20px;
+}
